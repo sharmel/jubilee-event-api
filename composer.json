@@ -1,0 +1,11 @@
+{
+    "name": "sharmel/event",
+    "require": {
+        "illuminate/database": "~5.2",
+        "slim/slim": "^3.0",
+        "aws/aws-sdk-php": "^3.18"
+    },
+    "autoload": {
+        "psr-4": { "Event\\": "src/Event/"}
+    }
+}
