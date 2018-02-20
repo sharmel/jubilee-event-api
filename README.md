@@ -1,1 +1,1 @@
-Jubilee event api service for creating events by authorized users
+ Using PSR-4 and slim microframework
